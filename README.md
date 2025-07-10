@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Your  Kewal</h1>
+<h1 align="center">Hi 👋, I'm Kewal</h1>
 <h3 align="center">A passionate Mobile App Developer | React Native & Java Enthusiast</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 🌱 I’m learning more about **backend development with Java & Spring Boot**
 - 🛠️ I build tools, apps, and experiences that solve real-world problems
 - 💬 Ask me about React Native, Java, APIs, or how to get started in mobile dev
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **kewal.bhattarai11@gmail.com**
 - ⚡ Fun fact: I love debugging more than breaking things 😄
 
 ---
