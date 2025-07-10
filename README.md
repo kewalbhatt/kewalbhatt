@@ -47,7 +47,7 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/kewal-bhattarai/" target="_blank">
+  <a href="https://linkedin.com/in/kewal-bhattarai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kewal.bhattarai11@gmail.com
