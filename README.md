@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Mobile App Developer | React Native & Java Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=React+Native+Developer;Java+Backend+Explorer;Open+Source+Contributor;Tech+Learner+For+Life&center=true&width=500&height=30" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=React+Native+Developer;Java+Backend+Explorer;Tech+Learner+For+Life&center=true&width=500&height=30" />
 </p>
 
 ---
